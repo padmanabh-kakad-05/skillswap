@@ -114,6 +114,8 @@ Make sure the following variables are configured:
 ## 📸 Screenshots
 
 (Add your project screenshots here – dashboard, requests, sessions, etc.)
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/a0d569e2-d35e-4844-bd7b-4a6862e27164" />
+
 
 ---
 
