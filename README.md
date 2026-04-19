@@ -113,8 +113,8 @@ Make sure the following variables are configured:
 
 ## 📸 Screenshots
 
-<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/7452740a-57e2-49c0-8ef6-9016da596f63" />
 <img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/a0d569e2-d35e-4844-bd7b-4a6862e27164" />
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/7452740a-57e2-49c0-8ef6-9016da596f63" />
 <img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/416daf9f-e0f7-42b2-9b47-ae375c8cd5f0" />
 <img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/50ee9a8a-d120-412c-87fa-0be4bc68cf27" />
 <img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/a0a71f23-b4d3-4103-a25a-5e62331f1b87" />
